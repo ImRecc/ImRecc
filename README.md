@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ImRecc
 - 👺 Was an embedded engineer、a front-end developer、a dilivery guy、a security guard、a traveller
-- 👀 Now interested in algorithm&math , backend
-- 🌱 I’m currently learning cyber security and trying to restore my c++ knowledge
-- 💞️ I’m looking to collaborate on development with c++
+- 👀 Now interested in algorithm&math , UE, backend
+- 🌱 I’m currently learning UE5 maybe cyberSecurity or c++, I tried to practice some leetcode but I need a bridge to connect them to reality, I mean, to be practicle
+- 💞️ I’m looking to collaborate on development with UE
 - 📫 How to reach me ... JUST SEND ME MESSAGE IF ANY IDEA
 - 🤖 # To be frank, I'm not a self-intro enthusiast but, I have to find a work and avoid from starve to death
 
